@@ -1,0 +1,25 @@
+{
+  "name": "hexop",
+  "version": "1.0.0",
+  "description": "Short and sweet package that converts a hex color and an opacity value and converts it to an 8 digit hex number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerFowler/hexop.git"
+  },
+  "keywords": [
+    "css",
+    "hex",
+    "alpha",
+    "opacity"
+  ],
+  "author": "Tyler Fowler <tylerfowler.1337@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerFowler/hexop/issues"
+  },
+  "homepage": "https://github.com/tylerFowler/hexop#readme"
+}
